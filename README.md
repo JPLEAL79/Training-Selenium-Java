@@ -1,3 +1,3 @@
 # Training-Selenium
-Este es un repositorio de Automation.. Tienda: "Falabella"
-Uso de IDE Intellij Idea
+This is an Automation repository. Store: retail "Falabella"
+Using the Intellij Idea IDE
